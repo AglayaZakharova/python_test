@@ -1,3 +1,5 @@
 n = int(input())
 print(n)
 print('Love')
+print('you')
+print('asshole')
